@@ -11,7 +11,7 @@ namespace BrailleUygulamasi
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MainPage2 : ContentPage
-   
+   {
         private string[] _brailleletters = new string[]
            {
                  "A.png",
